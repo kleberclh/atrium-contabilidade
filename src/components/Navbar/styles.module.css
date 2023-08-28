@@ -1,0 +1,25 @@
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin:.5rem 1rem;
+    align-items: center;
+
+
+}
+
+nav img{
+    margin: 0 10rem 0.8rem;
+}
+
+.flex ul{
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 0 10rem;
+}
+
+.flex a{
+    font-size: 20px;
+}

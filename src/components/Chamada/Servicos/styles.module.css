@@ -1,0 +1,29 @@
+.Container{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: flex-start;
+    margin-bottom: 200px;
+}
+
+.box h3{
+    font-weight: 200;
+}
+
+
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #4A81C0;
+    border-radius: 20px;
+    width: 320px;
+    height: 120px;
+    box-shadow: 4px 4px 4px #4A81C0;
+}
+
+.azul{
+    font-weight: 600;
+    color: #4A81C0;
+}

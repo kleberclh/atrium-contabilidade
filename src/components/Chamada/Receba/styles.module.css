@@ -1,0 +1,42 @@
+.Container{
+    margin: 0 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .Container h1{
+    font-weight: 500;
+    color: #4A81C0;
+    letter-spacing: 1px;
+  }
+  
+  .Container p{
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
+
+  .buttons{
+    display: flex;
+    gap: 30px;
+    
+  }
+
+.branco {
+    background-color: white;
+    color: #031C45;
+    padding: 5px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.preto {
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+  
